@@ -1,0 +1,9 @@
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Observation space:  Box(0, 1000000000, (10,), uint64) uint64
+Action space:  Box(0, 65535, (2,), uint64) uint64
+Start iteration:  0
+Step:  0
+---obs:  [         1          0     163241          2 4294967295       3400
+        340          1   71672432      80375]
+Done
