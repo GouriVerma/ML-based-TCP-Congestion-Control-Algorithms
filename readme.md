@@ -259,4 +259,12 @@ IN tcp_analysis_project:
     │   └── plots/                          # Graphs and visual outputs
         └── test_tcp.py                         # Python test script for TCP modules
         └── trained_random_forest.joblib        # Pretrained ML model for TCP decision making
+## Contributors
+
+- Sai Nikhita ([@SaiNikhita-P](https://github.com/username1))
+- Sayali Abhay Khamitkar ([@Sayali1434](https://github.com/Sayali1434))
+- Varsha Swaraj ([@callmeVAMP](https://github.com/callmeVAMP))
+- Gouri Verma ([@GouriVerma](https://github.com/GouriVerma))
+
+
 
